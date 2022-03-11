@@ -59,6 +59,9 @@
   border-bottom-right-radius: 10px;
   padding: 15px;
 }
+.btn-submit:active {
+  border: none;
+}
 .btn-submit:hover {
   opacity: .7;
   cursor: pointer;
@@ -135,7 +138,7 @@
     padding-bottom: 5em;
   }
   .form-style {
-    margin-right: 20px;
+    margin-right: 10px;
   }
   .input-style {
     width: 70%;
@@ -147,7 +150,7 @@
 
   /*Info styles*/
   .info-section {
-    width: 85%;
+    width: 90%;
     padding: 10px 5px;
   }
   .info-container {  

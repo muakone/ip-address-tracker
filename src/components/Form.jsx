@@ -16,7 +16,6 @@ const Form = () => {
 
     const key = process.env.REACT_APP_IP_API_KEY
     
-
     const handleSubmit = (e) => {
         if(e) {
             e.preventDefault();
